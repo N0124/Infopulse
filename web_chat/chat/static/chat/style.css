@@ -1,0 +1,12 @@
+body {
+    background-color: #87CEEB;
+    font-family: 'Pacifico', cursive;
+}
+.row {
+    height: 30%;
+}
+.btn {
+    padding: 3px;
+    font-size: 20px;
+
+}
